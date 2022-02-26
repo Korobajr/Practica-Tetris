@@ -65,7 +65,13 @@ body{
     /* modificar opacidad de borde */
 }
 
+<<<<<<< HEAD
 .tetrominoe{
     opacity: 1;
 }
 
+=======
+.tetronimoDrawed{
+    opacity: 1;
+}
+>>>>>>> 0fbbabf6696a06d9cd4bf7a82b1a89bd392df5ce
