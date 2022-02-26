@@ -64,3 +64,8 @@ body{
     border-color: #c6cfa2; 
     /* modificar opacidad de borde */
 }
+
+.tetrominoe{
+    opacity: 1;
+}
+
